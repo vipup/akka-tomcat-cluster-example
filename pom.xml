@@ -12,7 +12,7 @@
 	<properties>
 		<akka.version>2.2.3</akka.version>
         <scala.version.major>2.10</scala.version.major>
-        <scala.version.minor>0</scala.version.minor>
+        <scala.version.minor>3</scala.version.minor>
         <scala.version>${scala.version.major}.${scala.version.minor}</scala.version>
 	</properties>
 
